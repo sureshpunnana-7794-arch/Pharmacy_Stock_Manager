@@ -1,10 +1,13 @@
 # PharmaStock Pro — Modern Pharmacy Stock & Inventory Management System
 
+[![Live Demo](https://img.shields.io/badge/Demo-Live%20on%20GitHub%20Pages-success?style=for-the-badge&logo=github)](https://sureshpunnana-7794-arch.github.io/Pharmacy_Stock_Manager/)
 [![Node.js](https://img.shields.io/badge/Node.js-v18%2B-green.svg)](https://nodejs.org/)
 [![React](https://img.shields.io/badge/React-18-blue.svg)](https://reactjs.org/)
 [![Vite](https://img.shields.io/badge/Vite-5.4-purple.svg)](https://vitejs.dev/)
 [![Express](https://img.shields.io/badge/Express-4.19-lightgrey.svg)](https://expressjs.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+🔗 **Live Demo URL:** [https://sureshpunnana-7794-arch.github.io/Pharmacy_Stock_Manager/](https://sureshpunnana-7794-arch.github.io/Pharmacy_Stock_Manager/)
 
 > **PharmaStock Pro** is a comprehensive, full-stack pharmacy stock management and dispensing application designed to track inventory levels, monitor stock movements in real time, manage sales and supplier purchases, and proactively avoid stockouts and expired medicine dispensation.
 
